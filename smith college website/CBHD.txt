@@ -1,0 +1,46 @@
+BENEFITS OF CLOUD BASED HELP DESK
+     1. Have your resources available anytime on a cloud platform.
+      -
+
+Applications available on any platform
+Cloud service providers are incredibly reliable, maintaining up to 99,999% uptime. This means that your data and applications are available to you and your customers at any point. Even if a particular server where you store your data goes down, another one quickly turns on to back it up.
+
+Such a level of availability is ideal for all kinds of fluctuating demands and contributes to baked-in cost flexibility. A traditional on-premise infrastructure can hardly offer this option, which is another reason why businesses turn to the cloud.
+
+
+      2. Minimize your operating costs.
+With less equipment to purchase and maintain, moving to the cloud drastically reduces costs. You don’t have to invest in hardware, facilities, utilities, or building out a large data center to grow your business. You do not even need large IT teams to handle your cloud data center operations, as you can enjoy the expertise of your cloud provider’s staff.
+  
+          Some benefits of adopting cloud data security include the following:
+
+    No need for on-site servers;
+    Less strain on company computers;
+    Fewer IT employees;
+    Less maintenance, operational failures,  and downtime
+
+       3. Ensure backup and recovery of your data.
+Greater than the loss of equipment like laptops is the loss of the sensitive data they contain.
+
+Cloud computing enables greater security in situations like these. When your data is stored in the cloud, you can access it no matter what happens to your equipment.
+
+There are several different types of data protection cloud solutions including public, private, virtual private,  and hybrid.
+
+Public cloud security makes the most sense when you need to develop and test application code, collaboratively work on projects, or you meet incremental capacity.
+
+Private clouds offer complete control over your security and system but require more maintenance. If you deal with highly sensitive data or have to adhere to stringent data and security measures, a private cloud is the best choice.
+
+A hybrid cloud environment offers the best of both worlds by allowing you to keep each piece of your business running in the setting that suits it best. It also enables greater flexibility or distribution, allowing you to keep your data secure and your workloads operational at any point.
+
+     4.    Boost productivity with cloud-based collaboration.
+Boost productivity
+When your team can access documents anytime, anywhere, they can collaborate more efficiently. Your workflow improves because your employees have the flexibility to edit and share documents when it is convenient. That is not to say that coming into the office is not important; however, you maintain a competitive edge by giving your employees more of a work/life balance.
+   
+             Increased collaboration also leads to the following:
+
+    1 Improved organization. With all relevant documents in a central location, accessing the most up-to-date version is easier.
+    2 Higher participation. All team members have an equal opportunity for providing input because they can do it anytime, anywhere.
+     3 Improved access to large files. Low-performance servers can hardly handle large documents such as audio or video formats. The cloud seamlessly incorporates the ability to access such files easily.
+
+
+
+      
