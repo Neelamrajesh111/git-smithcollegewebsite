@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+ <link rel="stylesheet" type="text/css" href="styl.css"/>
+ <link rel="stylesheet" type="text/css" href="style.css"/>
+ <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+  <div id="up">
+  </div>
+        <nav>
+        <div id="logo">
+          <ul class="menu">
+          <li style="background-color: white";><img src="img/logo.png" width="65%" height="20%"></li></ul>
+        </div>
+
+        <label for="drop" class="toggle">Menu</label>
+        <input type="checkbox" id="drop" />
+            <ul class="menu">
+                <li><a href="home.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                 <li><a href="contact.html">Contact</a></li>
+                <li>
+                    <!-- First Tier Drop Down -->
+                    <label for="drop-1" class="toggle">WordPress </label>
+                    <a href="catalog.html">Catalog</a>
+                    <input type="checkbox" id="drop-1"/>
+                    <ul>
+                        <li><a href="lvl4.html">Level 4</a></li>
+                        <li><a href="lvl5.html">Level 5</a></li>
+                        <li><a href="lvl6.html">Level 6</a></li>
+                        <li><a href="lvl7.html">Level 7</a></li>
+                        <li><a href="lvl8.html">Level 8</a></li>
+                    </ul> 
+
+                </li>
+               
+            </ul>
+        </nav>
+    <h2 style="color: black;">Contact Us Anywhere, Anytime</h2>
+</div>
+</div>
+    <div class="wrapper">
+      <div class="inner">
+<div class="form-group ">
+            <div class="form-wrapper">
+       <form method ="POST"  action ="cont.php">
+              <label for="">FullName</label>
+              <input type="text" name ="fname" class="form-control" required>
+            </div>
+            <div class="form-wrapper">
+            <label for="">Email</label>
+            <input type="text" name ="email" class="form-control" required>
+          </div>
+            <div class="form-wrapper">
+              <label for="">PhoneNumber</label>
+              <input type="text" name ="pnumber" class="form-control" required>
+            </div>
+          </div>
+          <div class="form-wrapper">
+            <label for="">Message</label>
+            <input type="text" name="message" class="form-control" required>
+          </div>
+          <input type ="submit" name ="submit" value ="Submit">
+       </form>
+  <div id="ftr">
+ <p style="color:white;">Welcome To Unique Academy Library</p>
+ </div>
+    </div>
+</body>
+</html>
